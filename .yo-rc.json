@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Eric Holmgren",
+      "authorEmail": "eholmgr2@u.rochester.edu",
+      "authorUrl": ""
+    }
+  }
+}
