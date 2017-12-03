@@ -1,0 +1,7 @@
+swap is still buggy
+dijkstra is broken
+1% quantiling
+some of the propose functions are not well implemented
+lots of bad edge cases
+probably needs more comprehensive testing
+better interface (take in from text file, run with cmd line?)
